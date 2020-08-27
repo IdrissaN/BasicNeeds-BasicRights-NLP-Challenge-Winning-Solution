@@ -1,12 +1,12 @@
 # Winning Solution for the Basic Needs Basic Rights NLP Challenge hosted in [Zindi](https://zindi.africa/competitions/basic-needs-basic-rights-kenya-tech4mentalhealth/leaderboard)
 
 ## Competition Goal
-The objective of this challenge is to develop a machine learning model that classifies statements and questions expressed by university students in Kenya when speaking about the mental health challenges they struggle with. The four categories are depression, suicide, alchoholism, and drug abuse. 
+The objective of this challenge is to develop a machine learning model that classifies statements and questions expressed by university students in Kenya when speaking about the mental health challenges they struggle with. The four categories are **depression**, **suicide**, **alchoholism**, and **drug** abuse. 
 
 This solution will be used for a prototype of a mental health chatbot designed specifically for university students. This initiative is a first step in leveraging technology to make mental health services more accessible and more user-friendly for young people in Kenya and around the world.
 
 ## Competition metric
-The evaluation metric for this challenge is Log Loss.
+The evaluation metric for this challenge is **Log Loss**.
 
 ## Data
 
